@@ -55,7 +55,7 @@ Guiado pelo método Design Centrado no Usuário, com foco em apresentar aos visi
 | Desempenho                       | Garante fluidez e bom tempo de resposta durante a navegação e uso do sistema.              | Essencial     |
 | Integração futura                | Estrutura preparada para suportar conexões com APIs e funcionalidades adicionais.          | Recomendável  |
 
-
+## Estruturas de Pastas
 ```plaintext
 DesafioFinal/
 ├── public/
